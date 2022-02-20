@@ -1,8 +1,10 @@
 # calculator
 
-A new Fun Flutter project.
+Fun Flutter Project.
+<br>
 <br>
 Here are screenshots:
+<br>
 <br>
 <img src="https://user-images.githubusercontent.com/46238989/154849416-e1bb2b78-e49b-4b81-9670-6b973570f57c.jpg" alt="alt text" width="300">
 <img src="https://user-images.githubusercontent.com/46238989/154849417-14674dde-7c7e-44f6-8e1c-3878a8f55955.jpg" alt="alt text" width="300">
