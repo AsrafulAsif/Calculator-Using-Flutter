@@ -1,6 +1,7 @@
 # calculator
 
 A new Fun Flutter project.
+<br>
 Here are screenshots:
 <br>
 <img src="https://user-images.githubusercontent.com/46238989/154849416-e1bb2b78-e49b-4b81-9670-6b973570f57c.jpg" alt="alt text" width="300">
